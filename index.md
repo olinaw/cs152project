@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Analyzing the Applications of Facial Recognition
 
-You can use the [editor on GitHub](https://github.com/olinaw/cs152project.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Project Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will focus on examining the use of neural networks for the purpose of facial recognition and the ethical implications of them. I will take existing tools that use neural networks for facial recognition and research how they have failed, particularly in the tendency of facial recognition systems to falsely identify Black and Asian faces 10 to 100 times more often than they did white faces. In a similar manner women have been shown to be more falsely identified by men. With this in mind, I hope to explore the ethical issues regarding the failure of neural networks in this area including the potential expansions of negative facial recognition beyond logging into devices such as in case of implicating innocent people in crimes.
 
-### Markdown
+### Project Goals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/olinaw/cs152project.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Understand how neural networks are used in facial recognition
+2. Exploring how and when facial recognition fails (in what population groups)
+3. Research the ethical implications of these failures and how they can be resolved in the future
